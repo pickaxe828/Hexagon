@@ -1,8 +1,10 @@
+*\__pycache__
+
 settings.json
 launch.json
 template.json
 
+test*.py
 setup.py
-*test*.py
 
 *.pyc
