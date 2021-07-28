@@ -1,5 +1,8 @@
-*.pyc
 settings.json
 launch.json
 template.json
+
+setup.py
 *test*.py
+
+*.pyc
