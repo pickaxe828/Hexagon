@@ -1,0 +1,5 @@
+*.pyc
+settings.json
+launch.json
+template.json
+*test*.py
